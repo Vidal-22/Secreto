@@ -58,3 +58,4 @@ btnCloseElement.addEventListener('click', ()=> {
     heartElement.style.display = 'none'
   },500)
 })
+
